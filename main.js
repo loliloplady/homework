@@ -1,1 +1,4 @@
+function areArraysEqual(A,B){
+    
+}
 
